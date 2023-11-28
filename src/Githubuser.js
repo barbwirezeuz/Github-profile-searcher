@@ -98,7 +98,7 @@ export default function Githubuser() {
         </div>
       ) : (
         <p className="text-[#27374D] text-xl font-bold mt-10">
-          You have not searched a user
+          You have not searched a user, Search now
         </p>
       )}
     </>
