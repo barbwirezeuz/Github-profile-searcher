@@ -71,7 +71,7 @@ export default function Githubuser() {
             </div>
 
             <div className="text-white flex  mt-5 space-x-5">
-              {/* <p>ID : {userInfo.id}</p> */}
+              <p>ID : {userInfo.id}</p>
               <p>Followers : {userInfo.followers}</p>
               <p>Following : {userInfo.following}</p>
             </div>
